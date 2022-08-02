@@ -5,9 +5,9 @@ window.addEventListener("DOMContentLoaded", () => {
     {name: "demo", src: "assets/anotherdemo.mp3"},
     {name: "demo2", src: "assets/mother.mp3"},
     {name: "demo3", src: "assets/modular.mp3"},
-    {name: "demo4", src: "assets/open.mp3"},
-    {name: "demo5", src: "assets/demoA.mp3"},
-    {name: "demo6", src: "assets/modular.mp3"},
+    // {name: "demo4", src: "assets/open.mp3"},
+    // {name: "demo5", src: "assets/demoA.mp3"},
+    // {name: "demo6", src: "assets/modular.mp3"},
   ];
 
   // (A2) AUDIO PLAYER & GET HTML CONTROLS
